@@ -1,4 +1,4 @@
-# Model and Client Service Auto-Generate from JSON result
+# Json To Csharp Model and and Client Service Auto-Generate
 
 This project contains a program that automatically generates C# model classes and client service methods from API responses.
 
